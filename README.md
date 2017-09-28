@@ -33,4 +33,5 @@ Decorators and logger.
 Part of master thesis "Recommender systems based on association analysis" (mentor: prof.dr.sc Božidar Kliček) @ FOI, Varaždin.
 
 Other thesis related projects:
-- [used datasets](https://github.com/matejbasic/recomm-ecommerce-datasets)va
+- [MDAR](https://github.com/matejbasic/MDAR)
+- [used datasets](https://github.com/matejbasic/recomm-ecommerce-datasets)
