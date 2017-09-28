@@ -27,13 +27,10 @@ Imports [data](https://github.com/matejbasic/recomm-ecommerce-datasets) to Neo4j
 ### helpers
 Decorators and logger.
 
-## Todo
-- comments!
-
 
 ## Other
 
 Part of master thesis "Recommender systems based on association analysis" (mentor: prof.dr.sc Božidar Kliček) @ FOI, Varaždin.
 
 Other thesis related projects:
-- [used datasets](https://github.com/matejbasic/recomm-ecommerce-datasets)
+- [used datasets](https://github.com/matejbasic/recomm-ecommerce-datasets)va
